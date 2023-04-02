@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\BananaSchplit-Mini-USBCPD\BananaSchplit-Mini-USBCPD-PCB.PcbDoc
+Date         : 16/02/2023
+Time         : 18:33:28
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 100
+    Connections routed, 100
+    Connections remaining, 0
+count : 4
